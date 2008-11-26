@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== List Authors ===
 Contributors: Takaitra
 Tags: authors, widget, sidebar
 Requires at least: 2.0.2
