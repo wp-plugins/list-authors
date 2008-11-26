@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: List Authors
-Plugin URI: http://www.takaitra.com/
+Plugin URI: http://www.takaitra.com/blog/?p=60
 Description: Adds a widget to display a list of site authors. Based on <a href="http://www.mikesmullin.com">Mike Smullin's</a> List Authors Widget 1.0
 Version: 1.1
 Author: Matthew Toso
