@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: List Authors
-Plugin URI: http://www.takaitra.com/blog/?p=60
+Plugin URI: http://www.takaitra.com/posts/60
 Description: Adds a widget to display a list of site authors. Based on <a href="http://www.mikesmullin.com">Mike Smullin's</a> List Authors Widget 1.0
-Version: 1.1
+Version: 1.1.1
 Author: Matthew Toso
 Author URI: http://www.takaitra.com/
 */
@@ -59,7 +59,7 @@ function widget_authors_init() {
       $options[$k] = ($v && $k!='Title') ? 1 : 0;
 
     // Create feed image parameter
-    $feed_image = $options['Show Feed Image'] ? '&feed_image='.get_bloginfo('wpurl').'/wp-content/plugins/list-authors/feed-icon-14x14.png' : '';
+    $feed_image = $options['Show Feed Image'] ? '&feed_image='.get_bloginfo('wpurl').'/wp-content/plugins/list-authors/feed-icon-14x14.png&feed=RSS feed' : '';
 ?>
 
 <!-- Authors -->
