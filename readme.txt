@@ -2,7 +2,7 @@
 Contributors: Takaitra
 Tags: authors, widget, sidebar
 Requires at least: 2.0.2
-Tested up to: 2.8
+Tested up to: 2.9
 Stable tag: trunk
 
 A widget to display a list of site authors.
@@ -30,7 +30,7 @@ A widget to display a list of authors in your WordPress blog. Includes options t
 
 == Frequently Asked Questions ==
 
-If you have any questions or comments, feel free to [contact me](http://www.takaitra.com).
+If you have any questions or comments, feel free to [contact me](takaitra@gmail.com).
 
 == Screenshots ==
 
