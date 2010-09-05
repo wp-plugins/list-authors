@@ -9,7 +9,7 @@ A widget to display a list of site authors.
 
 == Description ==
 
-A widget to display a list of authors in your WordPress blog. Includes options to enable/disable the features mentioned below. Version 1.2 is completely updated to use the new widget API and is multi-widget enabled. Fully XHTML compliant.
+A widget to display a list of authors in your WordPress blog. Includes widget options to configure the features mentioned below. Completely updated to use the new widget API and is multi-widget enabled. Fully XHTML compliant.
 
 #### Features:
 * Choose between an HTML list or comma-separated list.
