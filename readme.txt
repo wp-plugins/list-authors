@@ -14,9 +14,10 @@ A widget to display a list of authors in your WordPress blog. Includes widget op
 #### Features:
 * Choose between an HTML list or comma-separated list.
 * Can show number of published author posts.
+* Sort authors by name or by post count.
+* Exclude users below a given post count threshold.
 * Allows administrator to be excluded from the list.
 * Choose between displaying usernames or full names in the list.
-* Allows users with 0 posts to be excluded from the list.
 * Can include links to author-specific RSS feeds.
 
 
