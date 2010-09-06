@@ -2,7 +2,7 @@
 Contributors: Takaitra
 Tags: authors, widget, sidebar
 Requires at least: 2.0.2
-Tested up to: 2.9
+Tested up to: 3.0.1
 Stable tag: trunk
 
 A widget to display a list of site authors.
