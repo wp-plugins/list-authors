@@ -2,7 +2,7 @@
 Contributors: Takaitra
 Tags: authors, widget, sidebar
 Requires at least: 2.0.2
-Tested up to: 3.0.1
+Tested up to: 3.0.4
 Stable tag: trunk
 
 A widget to display a list of site authors.
@@ -47,6 +47,10 @@ Yes. This feature was added in version 2.0.
 
 Yes. This feature was added in version 2.0.
 
+= How do I show the list of authors on a page or sidebar without using the widget? =
+
+This widget is the most convenient way to include a list of authors anywhere you can place a widget. However, you can place a list of authors anywhere you like without using this widget by using the [wp_list_authors template tag](http://codex.wordpress.org/Function_Reference/wp_list_authors).
+
 = What if I have further questions? =
 
 If you have any questions or comments, feel free to [leave a comment](http://www.takaitra.com/projects/list-authors) on the project page and I will respond as soon as I can.
@@ -57,6 +61,9 @@ If you have any questions or comments, feel free to [leave a comment](http://www
 2. The List Authors widget configuration.
 
 == Changelog ==
+
+= 2.0.1 =
+* Small fix for versions of WordPress older than 2.8.
 
 = 2.0 =
 * List can be sorted by name or post count.
